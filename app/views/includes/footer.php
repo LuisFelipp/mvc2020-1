@@ -1,3 +1,6 @@
+    <!--footer-->
+    <div>Rodape</div>
+
     
     <!-- SCRIPTS -->
     <script src="assets/js/bootstrap.min.js"></script>
